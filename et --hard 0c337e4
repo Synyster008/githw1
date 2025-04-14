@@ -1,0 +1,18 @@
+[33m6e8d335[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/login-page[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/login-page[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m4fa7ac9[m HEAD@{1}: reset: moving to HEAD~1
+[33m6246318[m[33m ([m[1;31morigin/feature2[m[33m)[m HEAD@{2}: checkout: moving from master to feature2
+[33m6e8d335[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/login-page[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/login-page[m[33m)[m HEAD@{3}: checkout: moving from feature2 to master
+[33m6246318[m[33m ([m[1;31morigin/feature2[m[33m)[m HEAD@{4}: rebase (finish): returning to refs/heads/feature2
+[33m6246318[m[33m ([m[1;31morigin/feature2[m[33m)[m HEAD@{5}: rebase (squash): Second commit on branch
+[33m94632f9[m HEAD@{6}: rebase (squash): # This is a combination of 2 commits.
+[33m0c197ac[m HEAD@{7}: rebase (start): checkout HEAD~3
+[33m0c337e4[m HEAD@{8}: commit: Fourth commit on branch
+[33mab5a1d6[m HEAD@{9}: commit: Third commit on branch
+[33m0c197ac[m HEAD@{10}: commit: Second commit on branch
+[33m4fa7ac9[m HEAD@{11}: commit: Adding files in branch
+[33m6e8d335[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/login-page[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/login-page[m[33m)[m HEAD@{12}: checkout: moving from master to feature2
+[33m6e8d335[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/login-page[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/login-page[m[33m)[m HEAD@{13}: merge feature/login-page: Fast-forward
+[33m805df87[m HEAD@{14}: checkout: moving from feature/login-page to master
+[33m6e8d335[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature/login-page[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/login-page[m[33m)[m HEAD@{15}: commit: Commit file in branch
+[33m805df87[m HEAD@{16}: checkout: moving from master to feature/login-page
+[33m805df87[m HEAD@{17}: commit (initial): initial commit
